@@ -575,7 +575,7 @@ def find_maximum_ternary(func, left, right, precision=1e-9):
 - **Частые поиски:** Хэш-таблица O(1)
 
 ### Для сортировки
-- **Малые данные (<50 элементов):** Insertion Sort
+- **Малые данные (< 50 элементов):** Insertion Sort
 - **Средние данные:** Quick Sort
 - **Большие данные:** Merge Sort
 - **Стабильность важна:** Merge Sort
