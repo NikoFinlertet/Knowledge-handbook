@@ -1,12 +1,10 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: Первый пост
 authors: [nikofinlertet]
 tags: [hola, docusaurus]
 ---
 
-Lorem ipsum dolor sit amet...
+aboba
 
-<!-- truncate -->
-
-...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Ratio_hsr_meme.gif =}
