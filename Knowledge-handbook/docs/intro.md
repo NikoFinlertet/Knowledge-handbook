@@ -34,9 +34,9 @@ sidebar_position: 1
 
 
 
-# Оглавление
+## Оглавление
 - [Математика](./mathematics/README.md)
 - [Computer Science](./CS/README.md)
 - [Языки программирования](./CS/languages/README.md)
 - [Лингвистика](./linguistics/README.md)
-- [Soft Skills](./soft-skills/README.md)
+- [Soft Skills](./soft_skills/README.md)
