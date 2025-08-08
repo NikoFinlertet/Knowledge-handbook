@@ -5,6 +5,11 @@
 
 Использует Docusaurus для создания и размещения документации.
 
-
 Запуск приложения:
-`bash npm start`
+`npm start`
+
+
+
+## БЛАГОДАРНОСТЬ:
+- Niko Finlertet | Founder
+- Oleg Opolskiy | Co-founder
