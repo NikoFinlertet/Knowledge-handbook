@@ -123,3 +123,4 @@ coffee.make()
 
 
 ## Ссылки
+- [SOLID](./README.md)

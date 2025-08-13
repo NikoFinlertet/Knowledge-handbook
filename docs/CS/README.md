@@ -3,9 +3,19 @@
 Фундаментальные концепции компьютерных наук: от теории вычислений до системной архитектуры.
 
 ## Структура раздела
-### В СТАДИИ ПРОЕКТИРОВКИ
+- [Языки программирования](./programming_languages)
+
+- [Алгоритмы и структуры данных](./algorithms_and_data_structures)
 
 - [SOLID](./solid)
+
+- [Базы данных](./database)
+
+- [Сети и коммуникации](./networks_and_communications)
+
+- [DevOps](./devops)
+
+- [Проектирование систем](./system_design)
 
 - [Основы теории вычислений](./theory_of_computation)
 
@@ -15,24 +25,12 @@
 
 - [Операционные системы](./operating_systems)
 
-- [Проектирование систем](./system_design)
-
-- [Проектирование интерфейсов](./interface_design)
-
-- [Алгоритмы и структуры данных](./algorithms_and_data_structures)
-
-- [Базы данных](./database)
-
 - [Искусственный интеллект](./ai_llm)
 
 - [Робототехника](./robotics)
 
-- [Сети и коммуникации](./networks_and_communications)
-
-- [Блокчейн](./blockchain)
+- [Проектирование интерфейсов](./interface_design)
 
 - [Безопасность](./security)
 
-- [DevOps](./devops)
-
-- [Языки программирования](./programming_languages)
+- [Блокчейн](./blockchain)

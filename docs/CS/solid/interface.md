@@ -78,3 +78,4 @@ controller2.write("Writing in data base")
 Достаточно лишь передать нужную функцию в конструктор.
 
 ## Ссылки
+- [SOLID](./README.md)
