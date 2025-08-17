@@ -2,35 +2,40 @@
 
 Фундаментальные концепции компьютерных наук: от теории вычислений до системной архитектуры.
 
+
+## Терминология
+
+- ПО: Программное Обеспечение
+
 ## Структура раздела
-- [Языки программирования](./programming_languages)
+- [Языки программирования](./programming_languages/README.md)
 
-- [Алгоритмы и структуры данных](./algorithms_and_data_structures)
+- [Алгоритмы и структуры данных](./algorithms_and_data_structures/README.md)
 
-- [SOLID](./solid)
+- [Принципы разработки ПО](./principles/README.md)
 
-- [Базы данных](./database)
+- [Базы данных](./database/README.md)
 
-- [Сети и коммуникации](./networks_and_communications)
+- [Сети и коммуникации](./networks_and_communications/README.md)
 
-- [DevOps](./devops)
+- [DevOps](./devops/README.md)
 
-- [Проектирование систем](./system_design)
+- [Проектирование систем](./system_design/README.md)
 
-- [Основы теории вычислений](./theory_of_computation)
+- [Основы теории вычислений](./theory_of_computation/README.md)
 
-- [Архитектура компьютера](./computer_architecture)
+- [Архитектура компьютера](./computer_architecture/README.md)
 
-- [Системное программирование](./system_programming)
+- [Системное программирование](./system_programming/README.md)
 
-- [Операционные системы](./operating_systems)
+- [Операционные системы](./operating_systems/README.md)
 
-- [Искусственный интеллект](./ai_llm)
+- [Искусственный интеллект](./ai_llm/README.md)
 
-- [Робототехника](./robotics)
+- [Робототехника](./robotics/README.md)
 
-- [Проектирование интерфейсов](./interface_design)
+- [Проектирование интерфейсов](./interface_design/README.md)
 
-- [Безопасность](./security)
+- [Безопасность](./security/README.md)
 
-- [Блокчейн](./blockchain)
+- [Блокчейн](./blockchain/README.md)
