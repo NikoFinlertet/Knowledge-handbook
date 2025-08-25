@@ -12,4 +12,3 @@
 
 ## БЛАГОДАРНОСТЬ:
 - Niko Finlertet | Founder
-- Oleg Opolskiy | Co-founder
