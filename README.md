@@ -33,7 +33,7 @@ sidebar_position: 1
 
 
 
-
 ## Оглавление
 - [Математика](./mathematics/mathematics.md)
 - [Computer Science](cs.md)
+
