@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34454f0e67c4334f",
+        "id": "3b9982b8322a41fa",
         "type": "tabs",
         "children": [
           {
-            "id": "f87340290db22894",
+            "id": "94e43a865d7dc37d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "7af97f6054c3e637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "CS/theory_of_computation/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CS/theory_of_computation/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "CS/theory_of_computation/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,24 +182,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7af97f6054c3e637",
+  "active": "94e43a865d7dc37d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "README.md",
-    "w.md",
-    "CS/cs.md",
-    "CS/algorithms_and_data_structures/README.md",
     "CS/theory_of_computation/regular_expressions.md",
     "CS/theory_of_computation/README.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/README.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/basic/algo/binary_search.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/basic/algo/sort/README.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/basic/algo/sort/fast.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/basic/algo/sort/bubble.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/basic/algo/Deikstra.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/basic/algo/search_width.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/basic/algo/recursion.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/basic/algo/README.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/basic/tree.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/basic/README.md",
+    "TASKS.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/advanced/README.md",
+    "CS/programming_languages/go/struct.md",
+    "CS/programming_languages/go/errors.md",
+    "CS/theory_of_computation/algorithms_and_data_structures/basic/array.md",
+    "README.md",
+    "Без названия.md",
+    "Без названия",
+    "conflict-files-obsidian-git.md",
+    "w.md",
+    "CS/cs.md",
     "soft_skills/mathematics.md",
     "mathematics/mathematics.md",
-    "linguistics/linguistics.md",
-    "CS/ai_llm/Ai_llm.md",
-    "tutorial-basics/create-a-blog-post.md",
-    "tutorial-basics/congratulations.md",
-    "soft_skills/README.md",
-    "TASKS.md",
-    "CS/programming_languages/README.md",
-    "mathematics/algebra/README.md"
+    "linguistics/linguistics.md"
   ]
 }

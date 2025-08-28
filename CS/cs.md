@@ -13,7 +13,7 @@ banner: tutorial-extras/img/docsVersionDropdown.png
 ## Структура раздела
 - [Языки программирования](./programming_languages/README.md)
 
-- [Алгоритмы и структуры данных](./algorithms_and_data_structures/README.md)
+- [Алгоритмы и структуры данных](CS/theory_of_computation/algorithms_and_data_structures/README.md)
 
 - [Системный дизайн](./system_design/README.md)
 
