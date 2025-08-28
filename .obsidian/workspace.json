@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "8115531dcc75bd95",
+    "type": "split",
+    "children": [
+      {
+        "id": "34454f0e67c4334f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f87340290db22894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98a124464edea863",
+    "type": "split",
+    "children": [
+      {
+        "id": "dad55578bae1ecbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c587f1132e7fe93a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "fe7def9992d4812e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "9c477de133c8cb52",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69fb67696bbb18b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "059810b6c56f8ac6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a9fcff96aeba630",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для README"
+            }
+          },
+          {
+            "id": "87c069f207d1d94a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "7a4b359335ac87e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "5126c5ab300f5306",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
+            }
+          },
+          {
+            "id": "acad80d4a06f7104",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "print:Print note": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c587f1132e7fe93a",
+  "lastOpenFiles": [
+    "w.md",
+    "README.md",
+    "CS/cs.md",
+    "CS/algorithms_and_data_structures/README.md",
+    "CS/theory_of_computation/regular_expressions.md",
+    "CS/theory_of_computation/README.md",
+    "soft_skills/mathematics.md",
+    "mathematics/mathematics.md",
+    "linguistics/linguistics.md",
+    "CS/ai_llm/Ai_llm.md",
+    "tutorial-basics/create-a-blog-post.md",
+    "tutorial-basics/congratulations.md",
+    "soft_skills/README.md",
+    "TASKS.md",
+    "CS/programming_languages/README.md",
+    "mathematics/algebra/README.md"
+  ]
+}
